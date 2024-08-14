@@ -1,4 +1,4 @@
-[![MasterHead](https://camo.githubusercontent.com/91c7a43399e63e18b0bda809b2ac203d159b06b07c91ac1f9b1cadbc38998504/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966)](https://bhupender-singh.netlify.app/)
+[![MasterHead](https://camo.githubusercontent.com/91c7a43399e63e18b0bda809b2ac203d159b06b07c91ac1f9b1cadbc38998504/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966)]
 <h1 align="center">Hi 👋, I'm Hemant Kumar Singh 🧑‍💻 </h1>
 <h3 align="center">DevOps AWS Developer from India</h3>
 
@@ -6,53 +6,30 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhupender2&label=Profile%20views&color=0e75b6&style=flat" alt="bhupender2" /> </p>
 
-- 💻 I have two years of experience in **web development**
+- 💻 I have experience in **web development and Deployment Pipeline**
 
 - 🔭 I’m currently working on **video streaming website**
 
-- 🌱 I’m currently learning **Nextjs, ReactNative**
+- 🌱 I’m currently learning **AWS Services**
 
 - 👯 I’m looking to collaborate on **Full Stack Projects**
 
-- 👨‍💻 All of my projects are available at [https://bhupender-singh.netlify.app/](https://bhupender-singh.netlify.app/)
-
-- 💬 Ask me about **Reactjs,Javascript,web sockets,Tailwind Css**
-
-- 📫 How to reach me **b.mehtaa2021@gmail.com**
+- 📫 How to reach me **hemantkumarsingh114@gmail.com**
 
 - ⚡ Fun fact **I can cook and I am Funny :)**
 
-- ---
+-----
 
 ### Recent Projects
-
-- **Abhivyakti Cinema** 🎬: A ReactJS-based project to search, sort, and watch trailers for movies and TV shows! Check it out at [Check it out](https://abhivyakti-cinema.vercel.app/)🍿
-
-- **WorldWise App** 🌍: Reactjs travel app designed to record and manage your global adventures, leveraging a modern tech stack to ensure a seamless and intuitive user experience.) [Check it out](https://world-wise-teal-seven.vercel.app/) 🌍
-
-- **Group Chat App**: Real-time chat application using React, Socket.io, and Express.js (might render slow because it is hosted on a free platform) [Check it out](https://chat-app-five-teal.vercel.app/) 💬
-
-- **Workout Timer**: Simple workout timer built with React for tracking exercise intervals. [Explore project](https://workout-timer-xi.vercel.app/) ⏱️
-
-- **SpeechTXT**: Responsive Speech to text  converter application developed with React and React speech recognition library. [Visit project](https://speech-txt-neon.vercel.app/) 🚀
-
-- **CornFlix**: Responsive movie application developed with React for exploring movie details and rate and keeping track of them. [Visit project](https://corn-flix.vercel.app/) 🎬
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/https://codepen.io/bhupender2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/bhupender2/" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/bhupender-mehta-661331226" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bhupender-mehta-661331226" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/20897994/bhupender-singh-mehta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/20897994/bhupender-singh-mehta" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="css3" width="40" height="40" /> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhupender2&show_icons=true&locale=en&layout=compact" alt="bhupender2" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hemant-Readme&show_icons=true&locale=en&layout=compact" alt="Hemant-Readme" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhupender2&show_icons=true&locale=en" alt="bhupender2" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Hemant-Readme&show_icons=true&locale=en" alt="Hemant-Readme" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhupender2&" alt="bhupender2" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Hemant-Readme&" alt="Hemant-Readme" /></p>
 
 <div align="center">
 
@@ -60,4 +37,4 @@
 
 
 
-:page_with_curl: I'm currently  working as a Front End Dev in YaMarkets:
+:page_with_curl: I'm currently  working as a AWS DevOps Engineer:
